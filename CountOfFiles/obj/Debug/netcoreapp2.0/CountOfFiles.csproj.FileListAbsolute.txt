@@ -1,0 +1,11 @@
+D:\github\C# Examples\CountOfFiles\bin\Debug\netcoreapp2.0\CountOfFiles.deps.json
+D:\github\C# Examples\CountOfFiles\bin\Debug\netcoreapp2.0\CountOfFiles.runtimeconfig.json
+D:\github\C# Examples\CountOfFiles\bin\Debug\netcoreapp2.0\CountOfFiles.runtimeconfig.dev.json
+D:\github\C# Examples\CountOfFiles\bin\Debug\netcoreapp2.0\CountOfFiles.dll
+D:\github\C# Examples\CountOfFiles\bin\Debug\netcoreapp2.0\CountOfFiles.pdb
+D:\github\C# Examples\CountOfFiles\obj\Debug\netcoreapp2.0\CountOfFiles.csprojResolveAssemblyReference.cache
+D:\github\C# Examples\CountOfFiles\obj\Debug\netcoreapp2.0\CountOfFiles.csproj.CoreCompileInputs.cache
+D:\github\C# Examples\CountOfFiles\obj\Debug\netcoreapp2.0\CountOfFiles.AssemblyInfoInputs.cache
+D:\github\C# Examples\CountOfFiles\obj\Debug\netcoreapp2.0\CountOfFiles.AssemblyInfo.cs
+D:\github\C# Examples\CountOfFiles\obj\Debug\netcoreapp2.0\CountOfFiles.dll
+D:\github\C# Examples\CountOfFiles\obj\Debug\netcoreapp2.0\CountOfFiles.pdb

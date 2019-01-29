@@ -1,0 +1,11 @@
+D:\github\C# Examples\MyArrayList\bin\Debug\netcoreapp2.0\MyArrayList.deps.json
+D:\github\C# Examples\MyArrayList\bin\Debug\netcoreapp2.0\MyArrayList.runtimeconfig.json
+D:\github\C# Examples\MyArrayList\bin\Debug\netcoreapp2.0\MyArrayList.runtimeconfig.dev.json
+D:\github\C# Examples\MyArrayList\bin\Debug\netcoreapp2.0\MyArrayList.dll
+D:\github\C# Examples\MyArrayList\bin\Debug\netcoreapp2.0\MyArrayList.pdb
+D:\github\C# Examples\MyArrayList\obj\Debug\netcoreapp2.0\MyArrayList.csprojResolveAssemblyReference.cache
+D:\github\C# Examples\MyArrayList\obj\Debug\netcoreapp2.0\MyArrayList.csproj.CoreCompileInputs.cache
+D:\github\C# Examples\MyArrayList\obj\Debug\netcoreapp2.0\MyArrayList.AssemblyInfoInputs.cache
+D:\github\C# Examples\MyArrayList\obj\Debug\netcoreapp2.0\MyArrayList.AssemblyInfo.cs
+D:\github\C# Examples\MyArrayList\obj\Debug\netcoreapp2.0\MyArrayList.dll
+D:\github\C# Examples\MyArrayList\obj\Debug\netcoreapp2.0\MyArrayList.pdb
